@@ -1,0 +1,59 @@
+.fc-daygrid-event {
+  background-color: #e6e6e6;
+  border-color: #c0c0c0;
+  color: #333333;
+}
+.fc .fc-col-header-cell-cushion {
+  /* needs to be same precedence */
+  padding-top: 5px; /* an override! */
+  padding-bottom: 5px; /* an override! */
+  background-color: rgb(255, 255, 255);
+  width: 100%;
+}
+
+.fc {
+  /* From https://css.glass */
+  padding: 20px;
+  background: rgba(255, 255, 255, 0.23);
+  border-radius: 16px;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(5px);
+  -webkit-backdrop-filter: blur(5px);
+  border: 1px solid rgba(255, 255, 255, 0.3);
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+.fc-day {
+  background-color: rgba(255, 255, 255, 0.712);
+}
+
+.btnService {
+  margin: 40px;
+  /* border: 1px solid black; */
+  padding: 5px;
+  border-radius: "10px";
+}
+
+.btnService:hover {
+  background: rgba(255, 255, 255, 0.1);
+  border-radius: 16px;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(3.4px);
+  /* border: 1px solid rgba(255, 255, 255, 0.18); */
+  cursor: pointer;
+  transition: 0.1s;
+}
+
+.fc-toolbar-title {
+  text-transform: capitalize;
+}
+
+.fc-theme-standard th {
+  border: 1px solid white;
+  border-bottom: 1px solid rgb(191, 191, 191);
+}
+
+.fc-theme-standard td {
+  border: 2px solid white;
+}
