@@ -18,7 +18,7 @@ const Contact = () => {
         alignItems: "center",
       }}
     >
-      <Typography variant="h4">CONTACTO</Typography>
+      <Typography variant="h4">CONTACTOS</Typography>
       <Box m={5} p={5} sx={{ backgroundColor: "white", borderRadius: "10px" }}>
         <Grid container spacing={2} direction="column">
           <Grid item xs={12} sm={6}>
