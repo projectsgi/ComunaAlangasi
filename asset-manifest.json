@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/ComunaAlangasi/static/css/main.16d1de23.css",
-    "main.js": "/ComunaAlangasi/static/js/main.6b615545.js",
+    "main.js": "/ComunaAlangasi/static/js/main.82306f6c.js",
     "static/media/JuliusSansOne-Regular.ttf": "/ComunaAlangasi/static/media/JuliusSansOne-Regular.2de04709e76a8c3a838d.ttf",
     "index.html": "/ComunaAlangasi/index.html",
     "main.16d1de23.css.map": "/ComunaAlangasi/static/css/main.16d1de23.css.map",
-    "main.6b615545.js.map": "/ComunaAlangasi/static/js/main.6b615545.js.map"
+    "main.82306f6c.js.map": "/ComunaAlangasi/static/js/main.82306f6c.js.map"
   },
   "entrypoints": [
     "static/css/main.16d1de23.css",
-    "static/js/main.6b615545.js"
+    "static/js/main.82306f6c.js"
   ]
 }
